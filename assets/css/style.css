@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;700&display=swap');
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-image: linear-gradient(250deg, #f2f2f2, #ccaddf);
+}
+
+.calculator {
+    
+}
