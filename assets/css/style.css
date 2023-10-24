@@ -11,9 +11,10 @@
 body {
     padding: 0;
     margin: 0;
-    background-image: linear-gradient(250deg, #f2f2f2, #ccaddf);
+    background-image: linear-gradient(200deg, #f2f2f2, #ccaddf);
+    height: 100vh;
 }
 
 .calculator {
-    
+
 }
